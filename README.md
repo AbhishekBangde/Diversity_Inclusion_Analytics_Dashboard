@@ -2,6 +2,8 @@
 
 ## 📁 Project Files  
 - `Diversity_and_Inclusion.pbix` – Power BI file containing the interactive dashboard analyzing diversity metrics.
+- `Photo_1` – Screenshot of 1st Dashboard.
+- `Photo_2` – Screenshot of 2nd Dashboard.
 
 ---
 
